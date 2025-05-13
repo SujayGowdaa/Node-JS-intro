@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "caching.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SujayGowdaa/starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SujayGowdaa/starter/issues"
+  },
+  "homepage": "https://github.com/SujayGowdaa/starter#readme",
+  "description": "",
+  "dependencies": {
+    "superagent": "^10.2.1"
+  }
+}
